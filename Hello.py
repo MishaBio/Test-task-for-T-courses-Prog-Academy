@@ -1,0 +1,5 @@
+BTC = int(input ('What is Bitcoin price today'))
+USD = int (input ('How much $ do you have'))
+print ('You can buy')
+print (USD/BTC)
+print ('BTC')
